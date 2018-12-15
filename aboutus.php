@@ -90,9 +90,9 @@ Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut sit amet nisi v
                               
                                     <ul class="list-unstyled">
                                       <li>
-                                        Phone-1: 09034567892<br>
-                                        Phone-2: 08056789234<br>
-                                       Email: maiyeniko@gmail.com<br>
+                                        Phone-1: 090********<br>
+                                        Phone-2: 08056849366<br>
+                                       Email: damikanye@gmail.com<br>
                                       </li>
                                     </ul>
                                   

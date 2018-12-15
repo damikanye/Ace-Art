@@ -107,9 +107,9 @@
                               
                                     <ul class="list-unstyled">
                                       <li>
-                                        Phone-1: 09034567892<br>
-                                        Phone-2: 08056789234<br>
-                                       Email: maiyeniko@gmail.com<br>
+                                        Phone-1: 08056849366<br>
+                                        Phone-2: 0805*******<br>
+                                       Email: damikanye@gmail.com<br>
                                       </li>
                                     </ul>
                                   
